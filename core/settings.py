@@ -32,6 +32,7 @@ ALLOWED_HOSTS = [
 
 CORS_ALLOWED_ORIGINS = [
     'https://alfirma.com',
+    'https://www.alfirma.com',
 ]
 
 # Application definition
