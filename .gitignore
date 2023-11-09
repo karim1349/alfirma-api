@@ -1,4 +1,4 @@
 .env
 db.sqlite3
 # Ignore pycache folders in core folder
-*/__pycache__/
+__pycache__
